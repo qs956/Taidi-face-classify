@@ -35,6 +35,6 @@ if __name__ == '__main__':
 					ymin,xmin,ymax,xmax = boxes[np.argmax(scores)]
 					pic_crop = pic.crop([xmin,ymin,xmax,ymax])
 					pic_crop = pic_crop.convert('L')
-					pic_crop.save(save_path + i + r'/' + j + r'.jpg')
+					pic_crop.save(save_path + i + r'/' + j)
 	print('转换完成!')
 	os.system(r'pause')
