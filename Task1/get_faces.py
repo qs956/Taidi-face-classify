@@ -6,8 +6,6 @@ import os
 import msvcrt
 import cv2
 
-
-import numpy as np
 from tqdm import tqdm
 
 if __name__ == '__main__':

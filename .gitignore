@@ -1,3 +1,6 @@
 #ignore this file#
 Task1/faceimages/
+Task2/faceimageGray/
 *.rar
+*.pyc
+*.jpg
