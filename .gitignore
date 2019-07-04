@@ -1,6 +1,9 @@
 #ignore this file#
 Task1/faceimages/
 Task2/faceimageGray/
+Task4/.ipynb_checkpoints/
+Task4/log/
+Task4/model/
 *.rar
 *.pyc
 *.jpg
