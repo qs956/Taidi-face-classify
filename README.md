@@ -60,7 +60,7 @@ Python model.py
 ```
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@qs596](https://github.com/qs956)
+- [@qs956](https://github.com/qs956)
 
 See also the list of [contributors](https://github.com/qs956/Taidi-face-classify/contributors) who participated in this project.
 
