@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="http://statics.scnu.edu.cn/statics/css/scnuportal/contentlogo2.png" alt="SCNU logo"></a>
+ <img width=500px height=200px src="http://statics.scnu.edu.cn/statics/css/scnuportal/contentlogo2.png" alt="SCNU logo"></a>
 </p>
 
 <h3 align="center">学校创新周泰迪人脸分类任务</h3>
